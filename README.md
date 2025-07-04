@@ -17,4 +17,5 @@ Clusters were evaluated and visualized. Promising municipalities include: [add y
 
 ### Files:
 - `ikea-municipality-clustering`: Main analysis notebook
+- - `ikea_kommun_data.txt`: Dataset
 
